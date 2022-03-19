@@ -35,5 +35,5 @@ For building and running the application you need:
   
 ### Port
 ```
-  http://localhost:8088
+  http://localhost:8080
 ```
